@@ -32,9 +32,8 @@ PRODUCT_CHARACTERISTICS := nosdcard
 RISING_MAINTAINER := NILOY
 
 # RisingOS Extra Flags.
-WITH_GMS := false
+WITH_GMS := true
 TARGET_HAS_UDFPS := true
-TARGET_PREBUILT_PIXEL_LAUNCHER := false
 
 # RisingOS Specs.
 RISING_RAM := 8GB
